@@ -2,17 +2,19 @@
 # coding: utf-8
 
 
-################################################################################
-#                                  Sym HEX
-#
-#     Coded by Eduardo O. Rodrigues
-#     
-#     the currently code download a website image time-by-time(defined by user)
-#     
-#     Technology used: Python 3.6+
-#
-#
-################################################################################
+#################################################################################################
+#                                  Sym HEX							#
+#												#
+#	Coded by Eduardo O. Rodrigues								#
+#     												#
+#	the currently code download a website image time-by-time(defined by user)		#
+#	after, it sends the image via e-mail protocol to your selected "TARGET_EMAIL"		#
+#	via SENDER_EMAIL									#
+#												#
+#     Technology used: Python 3.6+								#
+#												#
+#												#
+#################################################################################################
 
 
 
